@@ -6,6 +6,6 @@ Algoritmo Incremento_salario
 	Si salario >= 0 Entonces
 		Escribir "Nuevo salario ", salario*1.25
 	SiNo
-		Escribir "Felicidades su Nuevo salario es:$ ",nsalario;
+		Escribir "salario incorrecto";
 	Fin Si
 FinAlgoritmo
