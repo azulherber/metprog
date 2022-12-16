@@ -1,7 +1,7 @@
 SubProceso noo( )
 	Definir num1, num2 Como entero;
 	
-	Escribir "Ingrese el primer número";
+	Escribir "Ingrese el primer nÃºmero";
 	Leer num1;
 	Mientras num1 < 1000 Hacer
 		
@@ -17,7 +17,7 @@ SubProceso noo( )
 		Escribir "Ingresa el segundo numero";
 		Leer num2;
 	FinMientras
-	Escribir "ahora si ya bro :3";
+
 FinSubProceso
 
 
