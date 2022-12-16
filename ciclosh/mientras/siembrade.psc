@@ -20,7 +20,7 @@ FinSubProceso
 
 Proceso siembrade
 Escribir "----------------------------------";
-Escribir "Algoritmo: Planta una zanahoria ";
+Escribir "Algoritmo: Siembra una zanahoria <|* ";
 Escribir "Autor: Ailed Azul Herber Hernandez";
 Escribir "----------------------------------";
 carrot();
