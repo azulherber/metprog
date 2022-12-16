@@ -1,9 +1,8 @@
 SubProceso correo()
 	Definir c1, co como cadena;
 	Definir a,b,f,l Como Entero;
-	Escribir "=========================================";
-	Escribir "    Ingresa tu correo electronico";
-	Escribir "=========================================";
+
+	Escribir "Ingresa tu correo electronico";
 	leer co1;
 	l <- Longitud(co1);
 	co <- "@gmail.com";
@@ -29,7 +28,7 @@ FinSubProceso
 Proceso correoj
 	
 	Escribir "----------------------------------";
-	Escribir "Algoritmo: Clave de estudiantes";
+	Escribir "Algoritmo: Correo electronico";
 	Escribir "Autor: Ailed Azul Herber Hernandez";
 	Escribir "----------------------------------";
 	
